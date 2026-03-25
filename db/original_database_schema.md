@@ -75,24 +75,6 @@ CREATE TABLE IF NOT EXISTS GAME_GENRES (
     FOREIGN KEY (genre_id) REFERENCES GENRES(id)
 );
 
-CREATE TABLE IF NOT EXISTS PLAYERS (
-    id           INTEGER PRIMARY KEY AUTOINCREMENT,
-    username     TEXT NOT NULL UNIQUE,
-    email        TEXT NOT NULL UNIQUE,
-    created_at   TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
-);
-
-CREATE TABLE IF NOT EXISTS REVIEWS (
-    id         INTEGER PRIMARY KEY AUTOINCREMENT,
-    player_id  INTEGER NOT NULL,
-    game_id    INTEGER NOT NULL,
-    rating     REAL NOT NULL,
-    comment    TEXT,
-    created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
-    FOREIGN KEY (player_id) REFERENCES PLAYERS(id),
-    FOREIGN KEY (game_id) REFERENCES GAMES(id),
-    UNIQUE (player_id, game_id)
-);
 ```
 
 > NOTE: This is here for reference only. You don't need to run this code to create the database, as it is already created and populated with data.
