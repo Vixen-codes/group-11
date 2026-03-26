@@ -1,29 +1,89 @@
-# Team Roles and Responsibilities
+# Group Meeting Log Template (Sprint 1) - 26/03/2026
 
-## 1. Team Overview
+<!-- You should create one log per meeting. We expect to see at least 4 formal meetings. Create copies of this template for each meeting. -->
+<!-- Logs should be in valid markdown. You can find a guide here: https://www.markdownguide.org/basic-syntax/ -->
 
-- Primary communication via Discord
-- Each group member has Primary and Secondary role in which the secondary helps with another members primary
-- Progress tracking: Updates and progress are shared regularly through Discord, ensuring transparency and keeping everyone aligned with project goals.
+> **Team Name / Group Number: 11 **
+
+---
+
+## 1. Attendance
+
+<!-- List all team members and mark **P** (present), **A** (absent), or **L** (late). -->
+
+| Name | Attendance |
+| ---- | ---------- |
+| Luke |**P**       |
+| Stefan |**P**       |
+| Mannat |**P**       |
+| Jarryn |**P**       |
+| Sajan |**L** - 10 mins |
+| Olivier |**P**       |
+
+---
+
+## 2. Meeting Purpose
+
+<!-- A short sentence outlining why this meeting was held. --> 
+
+ - Understanding Assignment Requirements
+ - Assigning Roles
+ - Establishing Team Expectations
+ - Agreeing on Workload, Deadlines and Communication Methods
+
+## 3. Agenda Items
+
+<!-- List the planned discussion items. -->
+
+1. Overview of assignment requirements
+2. Allocation of team roles and responsibilities
+3. Selection of communication platform (Discord)
+4. Agreement on meeting frequency and scheduling
+5. Discussion of team expectations (workload, deadlines, communication)
+6. Initial discussion of GitLab workflow and collaboration methods
+
+---
+
+## 4. Discussion Summary
+
+<!-- Concise notes capturing what was discussed, decisions made, alternatives considered.
+Ensure you show evidence (e.g., screenshots, links to resources) of the discussion. -->
+
+- Roles Explained & Assigned - see Evidence
+- Main communication method chosen to be Discord, Slack and Teams were considered but due to unfamiliarity  with Slack and general preference against Teams, we opted for a platform we are more comfortable with. 
+- Discussed meetings scheduled (Ideally weekly)
+
+![Discussion Evidence](evidence/Sprint-1/Sprint1_Roles_Responsibilities.jpg)
 
 
-## 2. Role Allocation Table
+## 5. Decisions Made
 
-| Team Member | Primary Role | Secondary Role(s) | Responsibilities Summary |
-| ----------- | ------------ | ----------------- | ------------------------ |
-|   Stefan    |              |   ui/ux           |                          |
-|   Mannat    |              |  technical sup    |                          |
-|   Luke      |              |    requirements   |                          |
-|   Jarryn    |              |    project man    |                          |
-|   Sajan     |              |     database      |                          |
-|   Olivier   |              | doc and evidence  |                          |
+Use bullet points for clarity. Include rationale where relevant.
 
-## 3. GitLab Workflow
+- **Decision: Communication method is Discord**  
+  **Reasoning: Discord is a common app used by all members, whereas Slack is something members would need to learn**
 
-<!-- A brief description of how the team will use GitLab for version control, issue tracking, and collaboration -->
+- **Decision: Meetings would be done atleast weekly**  
+  **Reasoning: Ensures all sprints are completed before deadline**
 
-We will use gitlabs git repositories to store all project files, inluding markdown docs, meeet logs and design assets.
-Each team member will work on their own branch then create merge requests into the main branch.
-Commit messages will follow consistant formats to make it clear to all members of the group.
-We will use push and pull features to ensure all members work on the most up to date branch.
-Issues will be assigned to members based on their roles
+## 6. Actions and Responsibilities
+
+Clear, assigned tasks with deadlines.
+
+| Task | Assigned To | Due Date | Status                               |
+| ---- | ----------- | -------- | ------------------------------------ |
+|No major project activities for Sprint 1 | ----------- | -------- | N/A |
+
+## 7. Next Meeting
+
+**Proposed Date & Time: 30/03/2026 - 13:00**
+
+**Proposed Agenda Items: - Review Sprint 2 Objectives<br> - Spitball Epics for the innovative feature<br> - Generate and discuss Personas to represent target users<br> - Create user-story candidates<br> - Discuss selection process for Epic, 2 Personas, 1 Scenario and 5 User-Stories<br> Set deadlines and assign tasks for Sprint 2**
+
+**Proposed Agenda Items:**  
+- Review Sprint 2 Objectives  
+- Brainstorm Epics for the innovative feature  
+- Generate and discuss Personas to represent target users  
+- Create user-story candidates  
+- Discuss selection process for final Epic, 2 Personas, 1 Scenario, and 5 User Stories  
+- Set deadlines and assign tasks for Sprint 2
