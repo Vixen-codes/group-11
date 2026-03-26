@@ -26,3 +26,4 @@ We will use gitlabs git repositories to store all project files, inluding markdo
 Each team member will work on their own branch then create merge requests into the main branch.
 Commit messages will follow consistant formats to make it clear to all members of the group.
 We will use push and pull features to ensure all members work on the most up to date branch.
+Issues will be assigned to members based on their roles
