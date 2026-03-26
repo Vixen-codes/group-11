@@ -1,75 +1,28 @@
-# Group Meeting Log Template (Sprint 1)
+# Team Roles and Responsibilities
 
-<!-- You should create one log per meeting. We expect to see at least 4 formal meetings. Create copies of this template for each meeting. -->
-<!-- Logs should be in valid markdown. You can find a guide here: https://www.markdownguide.org/basic-syntax/ -->
+## 1. Team Overview
 
-> **Team Name / Group Number:**
+- Primary communication via Discord
+- Each group member has Primary and Secondary role in which the secondary helps with another members primary
+- Progress tracking: Updates and progress are shared regularly through Discord, ensuring transparency and keeping everyone aligned with project goals.
 
----
 
-## 1. Attendance
+## 2. Role Allocation Table
 
-List all team members and mark **P** (present), **A** (absent), or **L** (late).
+| Team Member | Primary Role | Secondary Role(s) | Responsibilities Summary |
+| ----------- | ------------ | ----------------- | ------------------------ |
+|   Stefan    |              |   ui/ux           |                          |
+|   Mannat    |              |  technical sup    |                          |
+|   Luke      |              |    requirements   |                          |
+|   Jarryn    |              |    project man    |                          |
+|   Sajan     |              |     database      |                          |
+|   Olivier   |              | doc and evidence  |                          |
 
-| Name | Role (if applicable) | Attendance |
-| ---- | -------------------- | ---------- |
-|      |                      |            |
-|      |                      |            |
-|      |                      |            |
+## 3. GitLab Workflow
 
----
+<!-- A brief description of how the team will use GitLab for version control, issue tracking, and collaboration -->
 
-## 2. Meeting Purpose
-
-<!-- A short sentence outlining why this meeting was held.
-
-Examples:
-
-- Refining user stories
-- Agreeing design architecture
-- Preparing for formative checkpoint
-- Reviewing risks and assumptions
-- Allocating tasks and deadlines -->
-
-## 3. Agenda Items
-
-List the planned discussion items.
-
-1.
-2.
-3.
-
----
-
-## 4. Discussion Summary
-
-Concise notes capturing what was discussed, decisions made, alternatives considered.
-Ensure you show evidence (e.g., screenshots, links to resources) of the discussion.
-
-![Discussion Evidence](evidence/screen_shot_example.png)
-[Link to random notes](evidence/some_random_notes.md)
-
-## 5. Decisions Made
-
-Use bullet points for clarity. Include rationale where relevant.
-
-- **Decision:**  
-  **Reasoning:**
-- **Decision:**  
-  **Reasoning:**
-
-## 6. Actions and Responsibilities
-
-Clear, assigned tasks with deadlines.
-
-| Task | Assigned To | Due Date | Status                               |
-| ---- | ----------- | -------- | ------------------------------------ |
-|      |             |          | Not started / In progress / Complete |
-|      |             |          |                                      |
-|      |             |          |                                      |
-
-## 7. Next Meeting
-
-**Proposed Date & Time:**
-
-**Proposed Agenda Items:**
+We will use gitlabs git repositories to store all project files, inluding markdown docs, meeet logs and design assets.
+Each team member will work on their own branch then create merge requests into the main branch.
+Commit messages will follow consistant formats to make it clear to all members of the group.
+We will use push and pull features to ensure all members work on the most up to date branch.
