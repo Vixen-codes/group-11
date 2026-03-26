@@ -78,11 +78,9 @@ Clear, assigned tasks with deadlines.
 
 **Proposed Date & Time: 30/03/2026 - 13:00**
 
-**Proposed Agenda Items: - Review Sprint 2 Objectives<br> - Spitball Epics for the innovative feature<br> - Generate and discuss Personas to represent target users<br> - Create user-story candidates<br> - Discuss selection process for Epic, 2 Personas, 1 Scenario and 5 User-Stories<br> Set deadlines and assign tasks for Sprint 2**
-
 **Proposed Agenda Items:**  
 - Review Sprint 2 Objectives  
-- Brainstorm Epics for the innovative feature  
+- Spitball Epics for the innovative feature  
 - Generate and discuss Personas to represent target users  
 - Create user-story candidates  
 - Discuss selection process for final Epic, 2 Personas, 1 Scenario, and 5 User Stories  
