@@ -58,7 +58,7 @@ Ensure you show evidence (e.g., screenshots, links to resources) of the discussi
 
 ## 5. Decisions Made
 
-Use bullet points for clarity. Include rationale where relevant.
+<!-- Use bullet points for clarity. Include rationale where relevant.-->
 
 - **Decision: Communication method is Discord**  
   **Reasoning: Discord is a common app used by all members, whereas Slack is something members would need to learn**
@@ -68,7 +68,7 @@ Use bullet points for clarity. Include rationale where relevant.
 
 ## 6. Actions and Responsibilities
 
-Clear, assigned tasks with deadlines.
+<!-- Clear, assigned tasks with deadlines. -->
 
 | Task | Assigned To | Due Date | Status                               |
 | ---- | ----------- | -------- | ------------------------------------ |
@@ -76,7 +76,7 @@ Clear, assigned tasks with deadlines.
 
 ## 7. Next Meeting
 
-**Proposed Date & Time: 30/03/2026 - 13:00**
+**Proposed Date & Time: 07/04/2026 - 13:00**
 
 **Proposed Agenda Items:**  
 - Review Sprint 2 Objectives  
