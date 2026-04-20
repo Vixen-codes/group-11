@@ -60,15 +60,19 @@ Ensure you show evidence (e.g., screenshots, links to resources) of the discussi
 <!-- Use bullet points for clarity. Include rationale where relevant. -->
 
 - **Decision: Epic will be personalised game discovery**  
+
   **Reasoning: Several ideas were floated from mood/time-based recommendations, personalised discovery (based on users current library) and a social discovery system. Mood/time recommendations was rejected as users may not think in terms of mood or available time, making the feature very niche. A social discovery system was rejected because implementing a friends and social system is not feasible with the projects time constraints. Personalised discovery was selected as it's the most practical and provides the most value to users.**
 
-- **Decision: Personas will represent casual/first-time gamers and more experienced, hardcore gamers**  
+- **Decision: Personas will represent casual/first-time gamers and more experienced, hardcore gamers**
+
   **Reasoning: Ensures feature is designed to meet needs of all users**
 
 - **Decision: User Stories will include features like Search, Favourites, Categories and game descriptions**
+
   **Reasoning: Features support core functionality of exploring game recommendations**
 
 - **Decision: Work will be divided between team members by section - Epic, Personas, Scenarios, User Stories**
+
   **Reasoning: Ensures a good workload distribution while maintaining collaboration**
 
 
