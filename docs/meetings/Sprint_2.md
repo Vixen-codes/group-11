@@ -82,11 +82,11 @@ Ensure you show evidence (e.g., screenshots, links to resources) of the discussi
 
 | Task | Assigned To | Due Date | Status |
 | ---- | ----------- | -------- | ------ |
-| Develop Epics | Stefan | 11/04/2026 | In progress |
-| Develop Personas | Olivier | 11/04/2026 | In progress |
-| Develop Scenario | Mannat | 11/04/2026 | In progress |
-| Develop User Stories | Luke | 11/04/2026 | In progress |
-| Complete Sprint 2 Meeting Notes | Jarryn | 11/04/2026 | In progress |
+| Develop Epics | Stefan | 11/04/2026 | Completed |
+| Develop Personas | Olivier | 11/04/2026 | Completed |
+| Develop Scenario | Mannat | 11/04/2026 | Completed |
+| Develop User Stories | Luke | 11/04/2026 | Completed |
+| Complete Sprint 2 Meeting Notes | Jarryn | 11/04/2026 | Completed |
 
 ## 7. Next Meeting
 
