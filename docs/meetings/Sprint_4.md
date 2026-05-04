@@ -59,7 +59,9 @@
 
   **Reasoning: Allows for a simple view with decoupled modules. Allows for a monolithic database**
 
-TODO Will we create new tables for favourites?
+- **Decision: New table will be created for Favourites within the database**
+
+  **Reasoning: Existing database does not store user-specific interactions. Introducing a new table allows the system to associate users with the game they have selected.**
 
 - **Decisions: Feature extends the games database**
 
