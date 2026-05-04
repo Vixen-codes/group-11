@@ -67,7 +67,7 @@
 
 | Task | Assigned To | Due Date | Status                               |
 | ---- | ----------- | -------- | ------------------------------------ |
-| Create High-fidelity Figma Mockup     | Olivier |     29/04/2026     | In Progress |
+| Create High-fidelity Figma Mockup     | Olivier |     29/04/2026     | Completed |
 
 
 ## 7. Next Meeting
