@@ -75,8 +75,8 @@
 
 | Task | Assigned To | Due Date | Status                               |
 | ---- | ----------- | -------- | ------------------------------------ |
-| System Architecture | Stefan | 03/05/2026 | In Progress |
-| UML Diagrams | Stefan | 03/05/2026 | In Progress |
-| Data Model | Mannat | 03/05/2026 | In Progress |
+| System Architecture | Stefan | 03/05/2026 | Completed |
+| UML Diagrams | Stefan | 03/05/2026 | Completed |
+| Data Model | Mannat | 03/05/2026 | Completed |
 | Ethics and Legal | Mannat | 03/05/2026 | Completed |
-| Design Decisions | Sajan | 03/05/2026 | In Progress |
+| Design Decisions | Sajan | 03/05/2026 | Completed |
