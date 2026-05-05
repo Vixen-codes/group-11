@@ -3,8 +3,9 @@ CREATE TABLE IF NOT EXISTS GAMES (
     id            INTEGER PRIMARY KEY,
     name          TEXT    NOT NULL,
     released      TEXT,                  -- YYYY-MM-DD format
-    rating        REAL,                  -- Average rating (0–5)
-    ratings_count INTEGER
+    rating        DOUBLE,               -- Average rating (0–5)
+    ratings_count INTEGER,
+    price         DOUBLE                -- Game price
 );
 
 -- Developers
